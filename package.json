@@ -1,5 +1,5 @@
 {
-    "name": "XBug-Bot",
+    "name": "KING B2K BOT ✓",
     "version": "5.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "main.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "KING B2K ✓",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
